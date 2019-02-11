@@ -20,8 +20,9 @@
 
 ```sh
 # check development environment
-# Проверка версии
+# Проверка версии cmake
 $ cmake --version
+cmake version 3.14.0-rc1
 # Проверка версии curl
 $ curl --version
 curl 7.55.1 (Windows) libcurl/7.55.1 WinSSL

@@ -34,8 +34,10 @@ $ git --version
 git version 2.1.4
 # Проверка версии g++
 $ g++ --version
+g++.exe (x86_64-posix-seh-rev0, Built by MinGW-W64 project) 8.1.0
 # Проверка версии hub
 $ hub --version
+hub version 2.8.4
 # Проверка версии make
 $ make --version
 GNU Make 4.1
@@ -43,6 +45,7 @@ Built for i686-pc-cygwin
 Copyright (C) 1988-2014 Free Software Foundation, Inc.
 # Проверка версии subl
 $ subl --version
+Sublime Text Build 3176
 # Проверка версии tree
 $ tree --version
 tree v1.7.0 (c) 1996 - 2014

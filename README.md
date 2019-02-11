@@ -30,20 +30,29 @@ Protocols: dict file ftp ftps http https imap imaps pop3 pop3s smtp smtps telnet
 Features: AsynchDNS IPv6 Largefile SSPI Kerberos SPNEGO NTLM SSL
 # Проверка версии git
 $ git --version
+git version 2.1.4
 # Проверка версии g++
 $ g++ --version
-# Проверка версии
+# Проверка версии hub
 $ hub --version
-# Проверка версии
+# Проверка версии make
 $ make --version
-# Проверка версии
+GNU Make 4.1
+Built for i686-pc-cygwin
+Copyright (C) 1988-2014 Free Software Foundation, Inc.
+# Проверка версии subl
 $ subl --version
-# Проверка версии
+# Проверка версии tree
 $ tree --version
-# Проверка версии
+tree v1.7.0 (c) 1996 - 2014
+# Проверка версии wget
 $ wget --version
-# Проверка версии
+GNU Wget 1.16.3 built on cygwin.
++digest +https +ipv6 +iri +large-file +nls +ntlm +opie -psl +ssl/gnutls
+# Проверка версии openssl
 $ openssl version
+OpenSSL 1.0.2a 19 Mar 2015
+
 ```
 
 ## Links

@@ -20,16 +20,29 @@
 
 ```sh
 # check development environment
+# Проверка версии
 $ cmake --version
-#Проверка версии curl
+# Проверка версии curl
 $ curl --version
+curl 7.55.1 (Windows) libcurl/7.55.1 WinSSL
+Release-Date: [unreleased]
+Protocols: dict file ftp ftps http https imap imaps pop3 pop3s smtp smtps telnet tftp
+Features: AsynchDNS IPv6 Largefile SSPI Kerberos SPNEGO NTLM SSL
+# Проверка версии git
 $ git --version
+# Проверка версии g++
 $ g++ --version
+# Проверка версии
 $ hub --version
+# Проверка версии
 $ make --version
+# Проверка версии
 $ subl --version
+# Проверка версии
 $ tree --version
+# Проверка версии
 $ wget --version
+# Проверка версии
 $ openssl version
 ```
 

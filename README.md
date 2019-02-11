@@ -42,7 +42,6 @@ hub version 2.8.4
 $ make --version
 GNU Make 4.1
 Built for i686-pc-cygwin
-Copyright (C) 1988-2014 Free Software Foundation, Inc.
 # Проверка версии subl
 $ subl --version
 Sublime Text Build 3176

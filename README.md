@@ -23,35 +23,44 @@
 # Проверка версии cmake
 $ cmake --version
 cmake version 3.14.0-rc1
+
 # Проверка версии curl
 $ curl --version
 curl 7.55.1 (Windows) libcurl/7.55.1 WinSSL
 Release-Date: [unreleased]
 Protocols: dict file ftp ftps http https imap imaps pop3 pop3s smtp smtps telnet tftp
 Features: AsynchDNS IPv6 Largefile SSPI Kerberos SPNEGO NTLM SSL
+
 # Проверка версии git
 $ git --version
 git version 2.1.4
+
 # Проверка версии g++
 $ g++ --version
 g++.exe (x86_64-posix-seh-rev0, Built by MinGW-W64 project) 8.1.0
+
 # Проверка версии hub
 $ hub --version
 hub version 2.8.4
+
 # Проверка версии make
 $ make --version
 GNU Make 4.1
 Built for i686-pc-cygwin
+
 # Проверка версии subl
 $ subl --version
 Sublime Text Build 3176
+
 # Проверка версии tree
 $ tree --version
 tree v1.7.0 (c) 1996 - 2014
+
 # Проверка версии wget
 $ wget --version
 GNU Wget 1.16.3 built on cygwin.
 +digest +https +ipv6 +iri +large-file +nls +ntlm +opie -psl +ssl/gnutls
+
 # Проверка версии openssl
 $ openssl version
 OpenSSL 1.0.2a 19 Mar 2015
